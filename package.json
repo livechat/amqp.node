@@ -27,7 +27,7 @@
   },
   "scripts": {
     "test": "make test",
-    "prepublish": "make"
+    "postinstall": "make"
   },
   "keywords": [
     "AMQP",
